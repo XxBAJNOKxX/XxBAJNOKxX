@@ -9,6 +9,8 @@
 - 💬 Ask me anything about Discord Bots.
 - 📫 You can dm me on Discord: **PetiADzsungeles#0620**
 
+ <br>
+ 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
