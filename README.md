@@ -19,4 +19,4 @@
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
- <img width="375" height="75" src="https://discord.c99.nl/widget/theme-3/522063714438873098.png">
+ <img src="https://discord.c99.nl/widget/theme-3/522063714438873098.png">
