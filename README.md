@@ -1,13 +1,14 @@
 ### Hi i'm Peti!👋
 
 <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=3133l4lwxhokm6nuvx4mbn3c3b44">
+![](https://discord.c99.nl/widget/theme-3/522063714438873098.png) 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently studying Software Engineering.
-- 🌱 I’m currently learning Python, JavaSript, TypeScipt.
+- 🌱 I’m currently learning **Python**, **JavaSript** and **TypeScipt**.
 - 💬 Ask me anything about Discord Bots.
-- 📫 You can dm me on Discord: PetiADzsungeles#0620
+- 📫 You can dm me on Discord: **PetiADzsungeles#0620**
 
  <br>
 
