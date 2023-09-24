@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying Software Engineering.
 - 🌱 I’m currently learning **Python**.
 - 💬 Ask me anything about Discord Bots.
-- 📫 You can dm me on Discord: **PetiADzsungeles#0620**
+- 📫 You can dm me on Discord: **@bajni**
 
  
  ### 🚀Favorite programming languages that I use:
