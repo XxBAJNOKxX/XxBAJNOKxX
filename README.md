@@ -5,7 +5,7 @@
 ## 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently studying Software Engineering.
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **C#**.
 - 💬 Ask me anything about Discord Bots.
 - 📫 You can dm me on Discord: **@bajni**
 
