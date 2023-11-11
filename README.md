@@ -23,7 +23,7 @@
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
  ![Redis](https://img.shields.io/badge/-redis-333333?style=for-the-badge&logo=redis)
  
- <img align="right" width="40%" hight="40%" src="https://discord.c99.nl/widget/theme-3/522063714438873098.png">
+ <img align="right" width="40%" hight="40%" src="https://discord.c99.nl/widget/theme-3/794740450933473280.png">
  
  ### 🔌Favorite IDEs that I use:
  
