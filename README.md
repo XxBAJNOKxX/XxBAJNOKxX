@@ -12,8 +12,8 @@
  
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
- ![C#](https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=c-sharp&logoColor=239120)
- ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+ ![C#](https://img.shields.io/badge/C%23-333333?style=for-the-badge&logo=dotnet&logoColor=8F78E3)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=1572B6)
  
  ### ⚡Favorite databases that I use:
  
